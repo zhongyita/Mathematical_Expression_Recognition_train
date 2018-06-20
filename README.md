@@ -1,0 +1,2 @@
+# Mathematical_Expression_Recognition_train
+本项目用于数学算式图片的机器视觉识别，分析图片的数学符号及等式。项目将探讨是用CNN、RNN等方法。
